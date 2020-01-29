@@ -17,6 +17,10 @@ public class Question07Day3 {
 		WebElement to = driver.findElement(By.id("to_station"));
 		to.sendKeys("salem");
 		
+		System.out.println("theri");
+		System.out.println("dummy");
+		System.out.println();
+		
 		
 		
 		
