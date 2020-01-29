@@ -38,6 +38,10 @@ public class Question01Day3 {
 		WebElement subt = driver.findElement(By.id("submit"));
 		subt.click();
 		
+		System.out.println("manoj");
+		System.out.println("manorajan");
+		System.out.println("create");
+		
 		
 		
 		
